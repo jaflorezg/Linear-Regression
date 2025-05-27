@@ -1,0 +1,29 @@
+# regresion_lineal_marketing.py
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+
+# Datos ficticios
+data = pd.DataFrame({
+    'presupuesto_marketing': [10, 20, 30, 40, 50],
+    'ventas': [15, 25, 35, 45, 52]
+})
+
+X = data[['presupuesto_marketing']]
+y = data['ventas']
+
+modelo = LinearRegression()
+modelo.fit(X, y)
+
+# Predicción
+nueva_inversion = [[60]]
+prediccion = modelo.predict(nueva_inversion)
+print(f"Predicción de ventas con $60k en marketing: {prediccion[0]:.2f}k")
+
+# Visualización
+plt.scatter(data['presupuesto_marketing'], data['ventas'], color='blue')
+plt.plot(data['presupuesto_marketing'], modelo.predict(X), color='red')
+plt.xlabel('Presupuesto Marketing (k$)')
+plt.ylabel('Ventas (k$)')
+plt.title('Relación entre marketing y ventas')
+plt.show()
