@@ -8,7 +8,7 @@ Predice valores numéricos estableciendo una relación lineal entre variables.
 
 ### 📂 Archivos incluidos
 - `prediccion_ventas.ipynb`: Predice ventas según inversión en publicidad.
-- `prediccion_temperatura.ipynb`: Predice la temperatura según la hora del día.
+- `regresion_lineal_precio_casas.ipynb`: Predice la temperatura según la hora del día.
 - `costos_marketing.ipynb`: Estima costos de marketing en función de resultados anteriores.
 
 ---
