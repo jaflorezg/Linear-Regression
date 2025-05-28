@@ -1,6 +1,6 @@
 # Andres Florez
 
-## Regresión Lineal 📈
+## Entra al mundo de la Regresión Lineal 📈
 
 Predice valores numéricos estableciendo una relación lineal entre variables.
 
