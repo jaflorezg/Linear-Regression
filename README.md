@@ -7,7 +7,9 @@
 Es una técnica estadística que nos ayuda a entender la relación entre variables. Por ejemplo:
 
 Variable dependiente: Lo que queremos predecir (ej. precio de una casa).
+
 Variable independiente: Lo que usamos para predecir (ej. metros cuadrados).
+
 📌 En simple: Busca la mejor línea recta que explique cómo una variable afecta a otra.
 
 🔹 ¿Para qué sirve?
