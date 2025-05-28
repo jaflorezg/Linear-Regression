@@ -18,6 +18,6 @@ Abre los notebooks en Jupyter o VS Code y ejecuta las celdas.
 
 ### Sigueme en LinkedIn para mas contenido! 
 
-### Visita mi [LinedIn](https://www.linkedin.com/in/jose-andres-florez-gutierrez/).
+### Visita mi [LinkedIn](https://www.linkedin.com/in/jose-andres-florez-gutierrez/).
  
 
