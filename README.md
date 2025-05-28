@@ -16,8 +16,7 @@ Predice valores numéricos estableciendo una relación lineal entre variables.
 ### ▶️ Cómo ejecutar
 Abre los notebooks en Jupyter o VS Code y ejecuta las celdas.
 
-### Sigueme en LinkedIn para mas contenido! 
-
-### Visita mi [LinkedIn](https://www.linkedin.com/in/jose-andres-florez-gutierrez/).
+### Sigueme en [LinkedIn](https://www.linkedin.com/in/jose-andres-florez-gutierrez/) para mas contenido! 
+.
  
 
