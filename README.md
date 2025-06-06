@@ -52,7 +52,7 @@ Como benchmark para comparar con modelos más complejos.
 ---
 
 ### ▶️ Cómo ejecutar
-Abre los notebooks en Jupyter o VS Code y ejecuta las celdas.
+Abre los notebooks en Jupyter o VS Code y ejecuta las celdas, recuerda leer los comentarios en el código para entender su funcionamiento.
 
 ### Sigueme en [LinkedIn](https://www.linkedin.com/in/jose-andres-florez-gutierrez/) para mas contenido! 
 .
